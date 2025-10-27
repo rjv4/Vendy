@@ -1,0 +1,7 @@
+## Interface: 50500
+## Title: Vendy
+## Notes: Automatically greys out unusable equipment at vendors
+## Author: Rick
+## SavedVariablesPerCharacter: VendyDB
+
+Vendy.lua
